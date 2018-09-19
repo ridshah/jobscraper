@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\bin\Debug\web_scraping.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\bin\Debug\web_scraping.exe
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\bin\Debug\web_scraping.pdb
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\obj\Debug\web_scraping.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\obj\Debug\web_scraping.exe
+c:\users\dell\documents\visual studio 2013\Projects\web_scraping\web_scraping\obj\Debug\web_scraping.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\WebDriver.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\WebDriver.Support.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\WebDriver.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Debug\WebDriver.Support.xml

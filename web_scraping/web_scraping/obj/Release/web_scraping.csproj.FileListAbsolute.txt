@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\web_scraping.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\web_scraping.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\web_scraping.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\HtmlAgilityPack.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\WebDriver.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\WebDriver.Support.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\HtmlAgilityPack.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\HtmlAgilityPack.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\WebDriver.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\bin\Release\WebDriver.Support.xml
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\obj\Release\web_scraping.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\web_scraping\web_scraping\obj\Release\web_scraping.pdb
